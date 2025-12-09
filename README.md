@@ -64,8 +64,8 @@ I specialize in **React.js, Node.js, Spring Boot, and MongoDB**, with a solid ba
 
 ## 📫 Contact Me
 
-- LinkedIn: [[Add your link]](https://www.linkedin.com/in/aymen-khelifa-543567253/)
-- Portfolio: [[Add your link]](https://aymen-khelifa.netlify.app/)
+- LinkedIn: https://www.linkedin.com/in/aymen-khelifa-543567253/
+- Portfolio: https://aymen-khelifa.netlify.app/
 - Email: aymen.khelifa@esprit.tn
 
 ---
