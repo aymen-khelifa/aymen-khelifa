@@ -1,21 +1,15 @@
 # 👋 Hi, I'm Aymen!
 
 🎓 Final-year Engineering Student in Web & Internet Technologies (TWIN)  
-💻 Full-Stack Developer | Solution Architect | AI & IoT Enthusiast  
+💻 Full-Stack Developer | Solution Architect | AI Enthusiast  
 📍 Tunisia  
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** with strong experience in building modern, scalable, and intelligent web applications.  
+I'm a passionate **Full-Stack Developer** with strong experience in building modern, and intelligent web applications.  
 I specialize in **React.js, Node.js, Spring Boot, and MongoDB**, with a solid background in **software engineering, system design, and AI-powered solutions**.
-
-I actively work on innovative projects related to:
-- Smart healthcare systems
-- IoT-based agriculture solutions
-- AI for emergency optimization
-- Sustainable digital platforms
 
 ---
 
@@ -63,34 +57,16 @@ I actively work on innovative projects related to:
 
 ### 🤖 AI & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 Winner – **Enactus Tunisia Competition (Pluxee)**
-- 🚑 Developer of an **AI-based Emergency Management System**
-- 🌱 Creator of Sustainability & Smart Agriculture Solutions
-
----
-
-## 📌 Current Focus
-
-- AI for medical prediction & optimization  
-- Smart IoT solutions  
-- Building scalable SaaS platforms  
-- Preparing my **Final Year Project (PFE)**
-
----
-
 ## 📫 Contact Me
 
-- LinkedIn: [Add your link]
-- Portfolio: [Add your link]
-- Email: [Add your email]
+- LinkedIn: [[Add your link]](https://www.linkedin.com/in/aymen-khelifa-543567253/)
+- Portfolio: [[Add your link]](https://aymen-khelifa.netlify.app/)
+- Email: aymen.khelifa@esprit.tn
 
 ---
 
